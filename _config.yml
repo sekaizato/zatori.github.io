@@ -2,7 +2,7 @@ title: zatori
 description: > # this means to ignore newlines until "baseurl:"
   Work it Harder. Make it Better. Do it Faster. Make us Stronger.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zatori.github.io" # the subpath of your site, e.g. /blog
 url: "http://sekaizato.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
